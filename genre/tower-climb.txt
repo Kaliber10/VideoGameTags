@@ -1,0 +1,11 @@
+Tower Climb
+-----------
+
+This genre entails a gameplay loop where the player progress to a new level after clearing the current screen. Typically each level is one area.
+The movement of the game where each level is cleared and the player moves onto a new, but similar level, and the moment to moment gameplay between levels is similar, gives it that sense of climbing a tower.
+
+Examples
+--------
+
+Bubble Bobble
+Mario Bros. (Arcade)
